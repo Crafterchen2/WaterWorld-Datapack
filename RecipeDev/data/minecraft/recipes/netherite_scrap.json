@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "minecraft:red_sand"
+    },
+    "result": "minecraft:red_stained_glass",
+    "experience": 2,
+    "cookingtime": 200
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " I ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stone"
+      },
+      "I": {
+        "item": "minecraft:music_disc_cat"
+      }
+    },
+    "result": {
+      "item": "minecraft:stonecutter"
+    }
+  }
+  

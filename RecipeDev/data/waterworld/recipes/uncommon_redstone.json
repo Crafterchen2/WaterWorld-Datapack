@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "minecraft:yellow_terracotta"
+    },
+    "result": "minecraft:redstone",
+    "count": 8
+  }
+  

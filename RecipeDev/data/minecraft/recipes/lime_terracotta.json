@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GLG",
+      "LSL",
+      "GLG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gravel"
+      },
+      "L": {
+        "item": "minecraft:cobblestone"
+      },
+      "S": {
+        "item": "minecraft:stone"
+      }
+    },
+    "result": {
+      "item": "minecraft:lime_terracotta",
+      "count": 2
+    }
+  }

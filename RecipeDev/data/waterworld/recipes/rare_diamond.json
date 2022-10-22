@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "minecraft:red_terracotta"
+    },
+    "result": "minecraft:diamond",
+    "count": 1
+  }
+  

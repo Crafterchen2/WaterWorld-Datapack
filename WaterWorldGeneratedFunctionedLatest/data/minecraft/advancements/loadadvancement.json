@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": {
+            "location": {
+              "position": {
+                "y": {
+                  "min": -300,
+                  "max": 300
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "waterworld:restartload"
+    }
+  }

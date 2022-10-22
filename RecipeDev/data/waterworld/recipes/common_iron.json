@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "minecraft:green_terracotta"
+    },
+    "result": "minecraft:iron_ingot",
+    "count": 1
+  }
+  

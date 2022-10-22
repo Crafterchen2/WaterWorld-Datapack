@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "impure_ores",
+    "pattern": [
+      "GLG",
+      "LSL",
+      "GLG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gravel"
+      },
+      "L": {
+        "item": "minecraft:lime_terracotta"
+      },
+      "S": {
+        "item": "minecraft:tuff"
+      }
+    },
+    "result": {
+      "item": "minecraft:green_terracotta",
+      "count": 2
+    }
+  }
