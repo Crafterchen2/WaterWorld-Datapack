@@ -1,0 +1,33 @@
+{
+    "parent": "waterworld:root",
+    "display": {
+      "icon": {
+        "item": "minecraft:stonecutter"
+      },
+      "title": {
+        "translate": "commands.forceload.added.failure"
+      },
+      "description": {
+        "translate": "commands.forceload.added.single"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "crafting_table": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block": "minecraft:stonecutter"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "crafting_table"
+      ]
+    ],
+    "rewards": {}
+  }
+  
