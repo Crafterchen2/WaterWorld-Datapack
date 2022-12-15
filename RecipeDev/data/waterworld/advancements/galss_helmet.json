@@ -1,0 +1,37 @@
+{
+    "parent": "waterworld:impure_ore_2",
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "translate": "commands.forceload.toobig"
+        },
+        "description": {
+            "translate": "commands.attribute.failed.entity"
+        },
+        "icon": {
+            "item": "minecraft:carved_pumpkin"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "glass_helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:carved_pumpkin"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "glass_helmet"
+        ]
+    ]
+
+}

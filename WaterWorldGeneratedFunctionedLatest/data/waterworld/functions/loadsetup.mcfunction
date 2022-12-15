@@ -1,3 +1,5 @@
+scoreboard objectives add deathcounter deathCount "Tode"
+scoreboard objectives setdisplay list deathcounter
 scoreboard objectives add spawnValid dummy
 execute unless entity @e[team=blocker] run team add blocker
 execute as @s at @s run scoreboard players add @s spawnValid 0

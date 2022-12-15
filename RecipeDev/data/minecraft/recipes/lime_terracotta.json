@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "group": "impure_ores",
     "pattern": [
       "GLG",
       "LSL",
@@ -13,7 +14,7 @@
         "item": "minecraft:cobblestone"
       },
       "S": {
-        "item": "minecraft:stone"
+        "item": "minecraft:flint"
       }
     },
     "result": {
