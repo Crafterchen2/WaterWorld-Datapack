@@ -173,6 +173,7 @@
               },
               {
                 "chances": [
+                  0.1,
                   0.2
                 ],
                 "condition": "minecraft:table_bonus",
