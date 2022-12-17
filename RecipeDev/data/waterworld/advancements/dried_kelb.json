@@ -17,7 +17,7 @@
         "hidden": false
     },
     "criteria": {
-        "dried_kelb": {
+        "dried_kelp": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
@@ -30,7 +30,7 @@
     },
     "requirements": [
         [
-            "dried_kelb"
+            "dried_kelp"
         ]
     ]
 

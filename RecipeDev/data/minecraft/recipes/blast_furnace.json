@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xxx",
+        "x#x",
+        "XXX"
+    ],
+    "key": {
+      "x": {
+        "item": "minecraft:stone"
+      },
+      "X": {
+        "item": "minecraft:smooth_stone"
+      },
+      "#": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:blast_furnace",
+      "count": 1
+    }
+  }
