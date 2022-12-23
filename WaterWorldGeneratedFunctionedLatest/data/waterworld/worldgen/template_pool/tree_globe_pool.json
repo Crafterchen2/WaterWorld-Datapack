@@ -1,0 +1,69 @@
+{
+    "name": "waterworld:tree_globe_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 30,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/oak_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 25,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/spruce_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 25,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/birch_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 20,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/jungle_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 20,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/acacia_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 10,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/dark_oak_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 10,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/mangrove_globe",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

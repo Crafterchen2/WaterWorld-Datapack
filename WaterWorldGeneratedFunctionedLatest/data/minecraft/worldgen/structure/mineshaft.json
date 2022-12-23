@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:mineshaft",
-  "biomes": "minecraft:desert",
-  "step": "underground_structures",
-  "spawn_overrides": {},
-  "mineshaft_type": "mesa"
+    "type": "minecraft:mineshaft",
+    "biomes": "minecraft:desert",
+    "step": "underground_structures",
+    "spawn_overrides": {},
+    "mineshaft_type": "normal"
 }

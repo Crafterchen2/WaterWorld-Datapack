@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:buried_treasure",
+    "biomes": "minecraft:desert",
+    "step": "underground_structures",
+    "spawn_overrides": {}
+}

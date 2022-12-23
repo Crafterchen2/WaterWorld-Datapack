@@ -2,26 +2,26 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.forceload.removed.all"
+            "translate": "commands.debug.stopped"
         },
         "description": {
-            "translate": "commands.forceload.removed.failure"
+            "translate": "commands.debug.notRunning"
         },
         "icon": {
-            "item": "minecraft:red_terracotta"
+            "item": "minecraft:black_glazed_terracotta"
         },
-        "frame": "goal",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
     },
     "criteria": {
-        "impure_ore_4": {
+        "building_kit_4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:red_terracotta"]
+                        "items": ["minecraft:black_glazed_terracotta"]
                     }
                 ]
             }
@@ -29,13 +29,8 @@
     },
     "requirements": [
         [
-            "impure_ore_4"
+            "building_kit_4"
         ]
     ],
-    "parent": "waterworld:impure_ore_3",
-    "rewards": {
-        "recipes": [
-            "minecraft:white_glazed_terracotta"
-        ]
-    }
+    "parent": "waterworld:building_kit_3"
 }

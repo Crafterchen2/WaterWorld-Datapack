@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "impure_ores",
+    "group": "building_kits",
     "pattern": [
       "GGG",
       "GDG",
