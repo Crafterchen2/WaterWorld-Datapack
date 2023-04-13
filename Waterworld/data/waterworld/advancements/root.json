@@ -1,5 +1,4 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
             "translate": "commands.clear.success.single"
@@ -39,7 +38,8 @@
             "minecraft:stonecutter",
             "minecraft:furnace",
             "minecraft:lime_terracotta",
-            "waterworld:cutting_blade"
+            "waterworld:cutting_blade",
+            "waterworld:gravel_from_sand"
         ]
     }
 }
