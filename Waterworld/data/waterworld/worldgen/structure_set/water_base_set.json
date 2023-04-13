@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "waterworld:water_base_structure",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 1175095500,
+        "spread_type": "linear",
+        "spacing": 10,
+        "separation": 6
+    }
+}
