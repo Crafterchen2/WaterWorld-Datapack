@@ -1,3 +1,3 @@
-place template waterworld:base_building/straights/ew_straight ~-15 ~-1 ~-3
+place template waterworld:base_building/straight ~ ~-1 ~-3 clockwise_90
 setblock ~1 ~ ~ air
-fill ~ ~ ~1 ~-1 ~2 ~-1 air
+fill ~ ~ ~1 ~ ~2 ~-1 air
