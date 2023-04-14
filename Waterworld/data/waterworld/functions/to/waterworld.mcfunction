@@ -1,0 +1,1 @@
+execute in waterworld:waterworld run tp ~ ~ ~
