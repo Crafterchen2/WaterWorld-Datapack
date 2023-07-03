@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:building_kit_2_ingredients"
+    },
+    "result": "minecraft:blue_glazed_terracotta",
+    "count": 1
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:impure_ore_4"
+    },
+    "result": "minecraft:netherite_scrap",
+    "count": 1
+  }
+  

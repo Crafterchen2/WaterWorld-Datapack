@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:mixed_seeds"
+    },
+    "result": "minecraft:sugar_cane",
+    "count": 3
+  }
+  

@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "item": "minecraft:yellow_terracotta"
-    },
-    "result": "minecraft:lapis_lazuli",
-    "count": 2
-  }
-  

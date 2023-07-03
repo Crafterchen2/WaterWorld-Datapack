@@ -1,18 +1,26 @@
 {
-    "type": "minecraft:ruined_portal",
+    "type": "minecraft:ocean_monument",
     "biomes": "minecraft:desert",
     "step": "surface_structures",
-    "spawn_overrides": {},
-    "setups": [
-        {
-            "placement": "on_ocean_floor",
-            "air_pocket_probability": 0,
-            "mossiness": 0.8,
-            "overgrown": false,
-            "vines": false,
-            "can_be_cold": true,
-            "replace_with_blackstone": false,
-            "weight": 1
+    "spawn_overrides": {
+        "axolotls": {
+            "bounding_box": "full",
+            "spawns": []
+        },
+        "monster": {
+            "bounding_box": "full",
+            "spawns": [
+                {
+                    "type": "minecraft:guardian",
+                    "weight": 1,
+                    "minCount": 2,
+                    "maxCount": 4
+                }
+            ]
+        },
+        "underground_water_creature": {
+            "bounding_box": "full",
+            "spawns": []
         }
-    ]
+    }
 }

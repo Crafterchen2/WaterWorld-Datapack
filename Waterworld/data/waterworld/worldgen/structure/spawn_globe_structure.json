@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#waterworld:waterworld_ocean",
+    "step": "surface_structures",
+    "spawn_overrides": {
+        "creature": {
+            "bounding_box": "full",
+            "spawns": [
+                {
+                    "type": "minecraft:chicken",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 3
+                },
+                {
+                    "type": "minecraft:pig",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 3
+                },
+                {
+                    "type": "minecraft:sheep",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 3
+                },
+                {
+                    "type": "minecraft:cow",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 3
+                }
+            ]
+        }
+    },
+    "terrain_adaptation": "beard_box",
+    "start_pool": "waterworld:spawn_globe_pool",
+    "size": 6,
+    "start_height": {
+        "absolute": 0
+    },
+    "project_start_to_heightmap": "OCEAN_FLOOR",
+    "max_distance_from_center": 80,
+    "use_expansion_hack": false
+}

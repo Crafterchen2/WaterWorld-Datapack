@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "item": "minecraft:green_terracotta"
-    },
-    "result": "minecraft:coal",
-    "count": 4
-  }
-  

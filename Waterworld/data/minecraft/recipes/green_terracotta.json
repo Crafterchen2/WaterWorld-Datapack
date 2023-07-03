@@ -11,7 +11,7 @@
         "item": "minecraft:gravel"
       },
       "L": {
-        "item": "minecraft:lime_terracotta"
+        "tag": "waterworld:impure_ore_1"
       },
       "S": {
         "item": "minecraft:tuff"

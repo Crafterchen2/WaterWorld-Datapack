@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "xxx",
-        "x#x",
+        "PPP",
+        "P#P",
         "XXX"
     ],
     "key": {
-      "x": {
+      "P": {
         "item": "minecraft:stone"
       },
       "X": {

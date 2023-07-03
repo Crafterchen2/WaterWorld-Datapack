@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:impure_ore_3"
+    },
+    "result": "minecraft:amethyst_shard",
+    "count": 6
+  }
+  

@@ -9,7 +9,7 @@
         "item": "minecraft:stone"
       },
       "I": {
-        "item": "minecraft:music_disc_cat"
+        "tag": "waterworld:sawblade"
       }
     },
     "result": {

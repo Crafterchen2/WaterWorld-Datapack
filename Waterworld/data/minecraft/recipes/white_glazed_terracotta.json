@@ -4,11 +4,14 @@
     "pattern": [
       "GGG",
       "GDG",
-      "GGG"
+      "SSS"
     ],
     "key": {
       "G": {
         "item": "minecraft:glass"
+      },
+      "S": {
+        "item": "minecraft:stone_bricks"
       },
       "D": {
         "item": "minecraft:diamond"

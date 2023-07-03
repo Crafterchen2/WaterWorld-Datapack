@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:impure_ore_2"
+    },
+    "result": "minecraft:copper_ingot",
+    "count": 3
+  }
+  

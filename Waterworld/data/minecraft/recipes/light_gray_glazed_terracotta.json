@@ -14,7 +14,7 @@
         "item": "minecraft:diamond"
       },
       "B": {
-        "item": "minecraft:white_glazed_terracotta"
+        "tag": "waterworld:building_kit_1"
       }
     },
     "result": {

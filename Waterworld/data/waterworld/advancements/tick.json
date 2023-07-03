@@ -1,13 +1,10 @@
 {
-    "criteria": {
+  "criteria": {
       "initializer": {
-        "trigger": "minecraft:tick",
-        "conditions": {
-        }
+          "trigger": "minecraft:tick"
       }
-    },
-    "rewards": {
+  },
+  "rewards": {
       "function": "waterworld:tick"
-    }
   }
-  
+}

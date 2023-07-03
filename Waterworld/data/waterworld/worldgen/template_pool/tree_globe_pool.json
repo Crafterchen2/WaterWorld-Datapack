@@ -64,6 +64,24 @@
                 "location": "waterworld:tree_globes/mangrove_globe",
                 "processors": "minecraft:empty"
             }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/azalea_globe",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "waterworld:tree_globes/cherry_globe",
+                "processors": "minecraft:empty"
+            }
         }
     ]
 }

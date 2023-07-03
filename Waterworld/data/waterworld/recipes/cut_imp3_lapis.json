@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:impure_ore_3"
+    },
+    "result": "minecraft:lapis_lazuli",
+    "count": 2
+  }
+  

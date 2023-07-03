@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:noise",
+        "settings": "waterworld:dark_ocean_noise_settings",
+        "biome_source": {
+            "type": "minecraft:fixed",
+            "biome": "minecraft:deep_dark"
+        }
+    }
+}

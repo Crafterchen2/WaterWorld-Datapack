@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "waterworld:mixed_seeds"
+    },
+    "result": "minecraft:potato",
+    "count": 1
+  }
+  

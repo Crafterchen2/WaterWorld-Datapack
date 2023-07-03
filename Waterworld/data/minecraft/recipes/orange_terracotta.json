@@ -1,13 +1,22 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "GLG",
-      "L L",
+      "GPG",
+      "Z W",
       "GLG"
     ],
     "key": {
       "G": {
-        "tag": "minecraft:planks"
+        "item": "minecraft:stick"
+      },
+      "W": {
+        "item": "minecraft:sugar_cane"
+      },
+      "Z": {
+        "item": "minecraft:carrot"
+      },
+      "P": {
+        "item": "minecraft:potato"
       },
       "L": {
         "item": "minecraft:wheat_seeds"

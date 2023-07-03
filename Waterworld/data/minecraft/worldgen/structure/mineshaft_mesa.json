@@ -1,26 +1,7 @@
 {
-    "type": "minecraft:ocean_monument",
+    "type": "minecraft:mineshaft",
     "biomes": "minecraft:desert",
-    "step": "surface_structures",
-    "spawn_overrides": {
-        "axolotls": {
-            "bounding_box": "full",
-            "spawns": []
-        },
-        "monster": {
-            "bounding_box": "full",
-            "spawns": [
-                {
-                    "type": "minecraft:guardian",
-                    "weight": 1,
-                    "minCount": 2,
-                    "maxCount": 4
-                }
-            ]
-        },
-        "underground_water_creature": {
-            "bounding_box": "full",
-            "spawns": []
-        }
-    }
+    "step": "underground_structures",
+    "spawn_overrides": {},
+    "mineshaft_type": "mesa"
 }

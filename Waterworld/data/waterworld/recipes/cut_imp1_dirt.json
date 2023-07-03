@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "waterworld:impure_ore_1"
+  },
+  "result": "minecraft:dirt",
+  "count": 4
+}

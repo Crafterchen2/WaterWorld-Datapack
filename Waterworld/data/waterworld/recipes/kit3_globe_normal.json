@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "item": "minecraft:gray_glazed_terracotta"
-    },
-    "result": "minecraft:cyan_glazed_terracotta",
-    "count": 1
-  }
-  
