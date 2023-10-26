@@ -5,6 +5,6 @@
       }
   },
   "rewards": {
-      "function": "waterworld:tick"
+      "function": "waterworld:player_tick"
   }
 }

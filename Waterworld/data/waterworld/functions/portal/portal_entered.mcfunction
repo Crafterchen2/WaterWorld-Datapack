@@ -1,0 +1,1 @@
+execute as @s at @s run schedule function waterworld:portal/enter_dark_ocean 3s

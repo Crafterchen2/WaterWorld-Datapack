@@ -1,0 +1,1 @@
+execute as @s at @s in waterworld:dark_ocean run tp @s ~ 0 ~

@@ -1,12 +1,11 @@
 {
     "parent": "waterworld:impure_ore_2",
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.attribute.failed.no_attribute"
+            "translate": "waterworld.advancements.blast_furnace.title"
         },
         "description": {
-            "translate": "commands.attribute.failed.no_modifier"
+            "translate": "waterworld.advancements.blast_furnace.desc"
         },
         "icon": {
             "item": "minecraft:blast_furnace"

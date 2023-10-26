@@ -1,12 +1,11 @@
 {
     "parent": "waterworld:impure_ore_2",
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.forceload.toobig"
+            "translate": "waterworld.advancements.glass_helmet.title"
         },
         "description": {
-            "translate": "commands.attribute.failed.entity"
+            "translate": "waterworld.advancements.glass_helmet.desc"
         },
         "icon": {
             "item": "minecraft:carved_pumpkin"

@@ -3,10 +3,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.forceload.removed.single"
+            "translate": "waterworld.advancements.dried_kelp.title"
         },
         "description": {
-            "translate": "commands.forceload.removed.multiple"
+            "translate": "waterworld.advancements.dried_kelp.desc"
         },
         "icon": {
             "item": "minecraft:dried_kelp"

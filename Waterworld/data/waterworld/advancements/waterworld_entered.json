@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": "Willkommen Unterwasser!",
-        "description": "Betritt den unendlichen Ozean",
+        "title": {
+            "translate": "waterworld.advancements.waterworld_entered.title"
+        },
+        "description": {
+            "translate": "waterworld.advancements.waterworld_entered.desc"
+        },
         "background": "minecraft:water",
         "frame": "task",
         "show_toast": true,

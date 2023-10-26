@@ -3,10 +3,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.attribute.failed.modifier_already_present"
+            "translate": "waterworld.advancements.cobblestone_bucket.title"
         },
         "description": {
-            "translate": "commands.attribute.value.get.success"
+            "translate": "waterworld.advancements.cobblestone_bucket.desc"
         },
         "icon": {
             "item": "minecraft:music_disc_13"

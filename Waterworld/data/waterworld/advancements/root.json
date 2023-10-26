@@ -1,10 +1,10 @@
 {
     "display": {
         "title": {
-            "translate": "commands.clear.success.single"
+            "translate": "waterworld.advancements.root.title"
         },
         "description": {
-            "translate": "commands.clear.success.multiple"
+            "translate": "waterworld.advancements.root.desc"
         },
         "icon": {
             "item": "minecraft:water_bucket"

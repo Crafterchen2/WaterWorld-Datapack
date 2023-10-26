@@ -1,11 +1,10 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.forceload.query.failure"
+            "translate": "waterworld.advancements.impure_ore_2.title"
         },
         "description": {
-            "translate": "commands.forceload.list.single"
+            "translate": "waterworld.advancements.impure_ore_2.desc"
         },
         "icon": {
             "item": "minecraft:green_terracotta"

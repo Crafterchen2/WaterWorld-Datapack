@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "translate": "commands.attribute.modifier.add.success"
+            "translate": "waterworld.advancements.building_kit_2.title"
         },
         "description": {
-            "translate": "commands.attribute.modifier.remove.success"
+            "translate": "waterworld.advancements.building_kit_2.desc"
         },
         "icon": {
             "item": "minecraft:light_gray_glazed_terracotta"

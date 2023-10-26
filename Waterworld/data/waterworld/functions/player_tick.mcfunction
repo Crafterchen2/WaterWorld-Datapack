@@ -1,0 +1,1 @@
+advancement revoke @a only waterworld:player_tick_adv

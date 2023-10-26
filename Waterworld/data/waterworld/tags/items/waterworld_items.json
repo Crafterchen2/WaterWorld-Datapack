@@ -5,6 +5,7 @@
         "#waterworld:buildings",
         "#waterworld:impure_ores",
         "#waterworld:sawblade",
-        "#waterworld:cobblestone_bucket"
+        "#waterworld:cobblestone_bucket",
+        "#waterworld:glass_helmet"
     ]
 }

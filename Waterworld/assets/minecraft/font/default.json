@@ -1,0 +1,16 @@
+{
+    "providers": [
+
+        { "type": "bitmap",
+            "file": "waterworld:gui/pixel_gap.png",
+            "ascent": 1, "height": 1,
+            "chars": ["\uE998"]
+        },
+	{ "type": "bitmap",
+            "file": "waterworld:gui/waterworld_button.png",
+            "ascent": 12, "height": 17,
+            "chars": ["\uE999"]
+    }
+    
+    ]
+}
