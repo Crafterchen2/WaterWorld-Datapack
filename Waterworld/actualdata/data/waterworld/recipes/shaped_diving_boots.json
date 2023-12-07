@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "D D",
+      "C C"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:copper_ingot"
+      },
+      "D": {
+        "item": "minecraft:dried_kelp"
+      }
+    },
+    "result": {
+      "item": "minecraft:chainmail_boots"
+    }
+  }
+  
