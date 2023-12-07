@@ -1,3 +1,5 @@
 # WaterWorld-Datapack
 
-This Repository is part of Waterworld which consists of this Repository and https://github.com/Crafterchen3/WaterWorld-Resources
+This is a WIP data pack for Minecraft versions 1.20.3 - 1.20.4 (as of 7.12.23). Just download the pack once and apply it as a ressource pack and in the world selection screen as a data pack. you can just drag the file into the selection view. The game will inform you if you use the wrong game version.
+
+More information will follow soon™.
