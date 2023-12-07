@@ -1,0 +1,6 @@
+{
+    "selectWorld.warning.experimental.title": "§c§l§nError:§r Wrong Minecraft version detected.",
+    "selectWorld.warning.experimental.question": "Please use Minecraft version 1.20.3 to ensure proper functionality. Do you want to create this world anyway?",
+    "selectWorld.backupQuestion.experimental": "§c§l§nError:§r Wrong Minecraft version detected.",
+    "selectWorld.backupWarning.experimental": "if you want the datapack \"Waterworld\" to function properly, please use Minecraft version 1.20.3. Here be dragons!"
+}

@@ -1,6 +1,26 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": "§3Welcome to §b§o§n§lWaterworld§r §3!"
+    "pack_format": 26,
+    "description": "§3Welcome to §b§o§n§lWaterworld§r §3!",
+    "supported_formats": [
+      22,
+      26
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 22,
+        "directory": "invaliddata"
+      },
+      {
+        "formats": {
+          "min_inclusive": 10,
+          "max_inclusive": 21
+        },
+        "directory": "invalidassets"
+      }
+
+    ]
   }
 }
