@@ -1,5 +1,6 @@
-setworldspawn ~ ~1 ~
-tp @a ~ ~1 ~
-fill ~-7 ~10 ~-7 ~7 ~10 ~7 minecraft:oak_leaves[waterlogged=false] replace minecraft:oak_leaves[waterlogged=true]
-setblock ~ ~ ~ grass_block
-say "Loading complete"
+tellraw @a "§c§l§nError:§r Wrong Minecraft version detected. Please use at least Minecraft version 1.20.3 to ensure proper functionality."
+title @a times 20 400 100
+title @a subtitle {"text":"The data pack requires at least Minecraft version 1.20.3","bold":true,"color":"red"}
+title @a title {"text":"Wrong version!","bold":true,"color":"#FF0000"}
+title @a times 20 100 20
+playsound block.anvil.land master @a

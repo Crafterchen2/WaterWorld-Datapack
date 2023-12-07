@@ -10,15 +10,12 @@
   "overlays": {
     "entries": [
       {
-        "formats": 22,
-        "directory": "invaliddata"
+        "formats": 26,
+        "directory": "actualdata"
       },
       {
-        "formats": {
-          "min_inclusive": 10,
-          "max_inclusive": 21
-        },
-        "directory": "invalidassets"
+        "formats": 22,
+        "directory": "actualassets"
       }
 
     ]
