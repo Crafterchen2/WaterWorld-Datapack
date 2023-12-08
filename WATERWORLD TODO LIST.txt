@@ -25,7 +25,6 @@ TODO: End???????????????????
 TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
 FIXME: Manchen advancement namen sind sehr dumm.
 TODO: Textur für impure ores verbessern und zu vollem block machen
-TODO: Diving suit texturieren
 
 //////////// DONE /////////////////
 IDEA: wenn chainmail chestplate getragen, respiration von Diving helmet * (aqua affinity level von chainmail chestplate + 1)?
@@ -37,3 +36,5 @@ FIXME: Cmd blöcke in spawn globe haben nicht den command "function waterworld:s
 --> FIXED.
 TODO: Diving helmet neues sheped crafting rezept: (3*copper ingot, 1*copper ingot, 1*glass pane, 1*copper ingot, 3*air)
 --> DONE: Ganzen Satz an rezepten für den diving suit hinzugefügt.
+TODO: Diving suit texturieren
+--> DONE.

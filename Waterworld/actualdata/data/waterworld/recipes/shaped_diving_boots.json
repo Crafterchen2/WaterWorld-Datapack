@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
       "D D",
-      "C C"
+      "L L"
     ],
     "key": {
-      "C": {
-        "item": "minecraft:copper_ingot"
+      "L": {
+        "item": "minecraft:leather"
       },
       "D": {
         "item": "minecraft:dried_kelp"
