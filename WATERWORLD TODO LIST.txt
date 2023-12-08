@@ -1,0 +1,39 @@
+WATERWORLD TODO LIST
+TODO: Experimental features Popup modifizieren
+FIXME: Alle Bäume in globes sind waterlogged
+TODO: Custom texture für reapeating cmd blocks
+FIXME: Respawn in Oberwelt nach Tod ohne Bett
+MAYBE: Text "Saving world" zu "Saving waterworld"?
+FIXME: Viele custom rezepte werden nicht entsperrt. (bsp.: saw, cobblestone bucket, etc)
+IDEA: wenn impure ore auf stonecutter gedroppt, nach 5s zufällige, von diesem impure ore im stonecutter erhaltbare resource geben?
+TODO: unterwasserlabor braucht Interiööör! Mob spawner, loot, etc.
+TODO: Häufigkeit von Unterwasserlabor reduzieren
+CHECK: Schiffswrack gesichtet. warum generiert?
+TYPO: "A Bucket full of cobblestone" --> "A bucket full of cobblestone"
+MAYBE: Lava bucket schmelzen noch länger dauern lassen? (Faktor 1,5 - 2?)
+MAYBE: Diving helmet mit respiration 2?
+FIXME: Repeater in falscher Kategorie
+TODO: entferne on bed clicked methoden/advancements. respawning mit bett funktioniert
+FIXME: Nicht mehr biome aus minecraft überschreiben. Notfalls kopien in waterworld machen.
+TODO: so wenig wie möglich von Minecraft überschreiben.
+IDEA: Lush ocean
+MAYBE: treetwerking???
+TODO: Invertierte, kleinere Globe als spawnpunkt im Dark ocean nehmen, mit einem reenforced deepslate und einem interactable entity als rückkehrpunkt genau an den Koordinaten des Dark ocean portals in waterworld
+TODO: Baue Void Citadel im Dark Ocean. Blockpallete: Deepslate, prismarin. Void altar: end stone, purpur, deepslate
+TODO: netherite --> Oceanite (Namen, texturen, alles ändern.)
+TODO: End???????????????????
+TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
+FIXME: Manchen advancement namen sind sehr dumm.
+TODO: Textur für impure ores verbessern und zu vollem block machen
+TODO: Diving suit texturieren
+
+//////////// DONE /////////////////
+IDEA: wenn chainmail chestplate getragen, respiration von Diving helmet * (aqua affinity level von chainmail chestplate + 1)?
+IDEA: Chainmail armour == Taucheranzug?
+--> IMPLEMENTED: Diving suit hinzugefügt 
+TODO: Füge overlay hinzu, ähnlich wie subnautica, wenn diving helmet getragen
+--> OBSOLETE: carved pumpkin ist nicht mehr diving helmet.
+FIXME: Cmd blöcke in spawn globe haben nicht den command "function waterworld:spawner".
+--> FIXED.
+TODO: Diving helmet neues sheped crafting rezept: (3*copper ingot, 1*copper ingot, 1*glass pane, 1*copper ingot, 3*air)
+--> DONE: Ganzen Satz an rezepten für den diving suit hinzugefügt.
