@@ -9,7 +9,6 @@ IDEA: wenn impure ore auf stonecutter gedroppt, nach 5s zufällige, von diesem i
 TODO: unterwasserlabor braucht Interiööör! Mob spawner, loot, etc.
 TODO: Häufigkeit von Unterwasserlabor reduzieren
 CHECK: Schiffswrack gesichtet. warum generiert?
-TYPO: "A Bucket full of cobblestone" --> "A bucket full of cobblestone"
 MAYBE: Lava bucket schmelzen noch länger dauern lassen? (Faktor 1,5 - 2?)
 MAYBE: Diving helmet mit respiration 2?
 FIXME: Repeater in falscher Kategorie
@@ -22,9 +21,9 @@ TODO: Invertierte, kleinere Globe als spawnpunkt im Dark ocean nehmen, mit einem
 TODO: Baue Void Citadel im Dark Ocean. Blockpallete: Deepslate, prismarin. Void altar: end stone, purpur, deepslate
 TODO: netherite --> Oceanite (Namen, texturen, alles ändern.)
 TODO: End???????????????????
-TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
 FIXME: Manchen advancement namen sind sehr dumm.
-TODO: Textur für impure ores verbessern und zu vollem block machen
+TODO: Advancement von glass helmet zu advancement für vollständiges craften von diving suit machen
+TODO: icons für diving suit machen
 
 //////////// DONE /////////////////
 IDEA: wenn chainmail chestplate getragen, respiration von Diving helmet * (aqua affinity level von chainmail chestplate + 1)?
@@ -38,3 +37,8 @@ TODO: Diving helmet neues sheped crafting rezept: (3*copper ingot, 1*copper ingo
 --> DONE: Ganzen Satz an rezepten für den diving suit hinzugefügt.
 TODO: Diving suit texturieren
 --> DONE.
+TODO: Textur für impure ores verbessern und zu vollem block machen
+--> DONE.
+TYPO: "A Bucket full of cobblestone" --> "A bucket full of cobblestone"
+TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
+--> CORRECTED.
