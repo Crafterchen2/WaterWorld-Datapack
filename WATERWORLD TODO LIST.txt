@@ -43,3 +43,5 @@ TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
 --> CORRECTED.
 TODO: icons für diving suit machen
 --> DONE.
+MAYBE: Lava bucket schmelzen noch länger dauern lassen? (Faktor 1,5 - 2?)
+--> DONE: von 300 Ticks zu 600 Ticks
