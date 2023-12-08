@@ -23,7 +23,6 @@ TODO: netherite --> Oceanite (Namen, texturen, alles ändern.)
 TODO: End???????????????????
 FIXME: Manchen advancement namen sind sehr dumm.
 TODO: Advancement von glass helmet zu advancement für vollständiges craften von diving suit machen
-TODO: icons für diving suit machen
 
 //////////// DONE /////////////////
 IDEA: wenn chainmail chestplate getragen, respiration von Diving helmet * (aqua affinity level von chainmail chestplate + 1)?
@@ -42,3 +41,5 @@ TODO: Textur für impure ores verbessern und zu vollem block machen
 TYPO: "A Bucket full of cobblestone" --> "A bucket full of cobblestone"
 TYPO: Viele Groß-Kleinschreibungsfehler in Advancement namen
 --> CORRECTED.
+TODO: icons für diving suit machen
+--> DONE.
