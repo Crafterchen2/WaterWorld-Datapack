@@ -1,27 +1,57 @@
 {
-    "parent": "waterworld:impure_ore_2",
     "display": {
+        "icon": {
+            "id": "minecraft:chainmail_chestplate"
+        },
         "title": {
             "translate": "waterworld.advancements.glass_helmet.title"
         },
         "description": {
             "translate": "waterworld.advancements.glass_helmet.desc"
         },
-        "icon": {
-            "id": "minecraft:chainmail_chestplate"
-        },
-        "frame": "task",
+        "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
     },
+    "parent": "waterworld:impure_ore_2",
     "criteria": {
-        "glass_helmet": {
+        "diving_helmet": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:carved_pumpkin"]
+                        "items": "#waterworld:diving_helmet"
+                    }
+                ]
+            }
+        },
+        "diving_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#waterworld:diving_chestplate"
+                    }
+                ]
+            }
+        },
+        "diving_leggings": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#waterworld:diving_leggings"
+                    }
+                ]
+            }
+        },
+        "diving_boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#waterworld:diving_boots"
                     }
                 ]
             }
@@ -29,8 +59,13 @@
     },
     "requirements": [
         [
-            "glass_helmet"
+            "diving_helmet",
+            "diving_chestplate",
+            "diving_leggings",
+            "diving_boots"
         ]
-    ]
-
+    ],
+    "rewards": {
+        "experience": 100
+    }
 }
