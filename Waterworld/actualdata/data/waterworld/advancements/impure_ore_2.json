@@ -1,4 +1,5 @@
 {
+    "parent": "waterworld:impure_ore_1",
     "display": {
         "title": {
             "translate": "waterworld.advancements.impure_ore_2.title"
@@ -20,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:green_terracotta"]
+                        "items": "#waterworld:impure_ore_2"
                     }
                 ]
             }
@@ -36,6 +37,5 @@
             "minecraft:yellow_terracotta",
             "minecraft:blast_furnace"
         ]
-    },
-    "parent": "waterworld:impure_ore_1"
+    }
 }

@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:yellow_terracotta"]
+                        "items": "#waterworld:impure_ore_3"
                     }
                 ]
             }
@@ -37,5 +37,4 @@
             "minecraft:red_terracotta"
         ]
     }
-
 }
