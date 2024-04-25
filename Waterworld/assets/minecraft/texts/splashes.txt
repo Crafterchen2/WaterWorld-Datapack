@@ -1,4 +1,4 @@
-§cThis is not Minecraft 1.20.3!
-§cPlease use at least Minecraft version 1.20.3.
+§cThis is not Minecraft 1.20.5!
+§cPlease use Minecraft version 1.20.5.
 §cDatapack "Waterworld" might not work.
-§cat least Minecraft 1.20.3 required!
+§cMinecraft 1.20.5 required!
