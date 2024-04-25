@@ -1,9 +1,10 @@
 {
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "tag": "waterworld:impure_ore_3"
-    },
-    "result": "minecraft:gold_ingot",
-    "count": 2
-  }
-  
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "waterworld:impure_ore_3"
+  },
+  "result": {
+    "id": "minecraft:gold_ingot"
+  },
+  "count": 2
+}

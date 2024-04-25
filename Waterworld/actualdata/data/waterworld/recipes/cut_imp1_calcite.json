@@ -3,6 +3,8 @@
   "ingredient": {
     "tag": "waterworld:impure_ore_1"
   },
-  "result": "minecraft:calcite",
+  "result": {
+    "id": "minecraft:calcite"
+  },
   "count": 2
 }

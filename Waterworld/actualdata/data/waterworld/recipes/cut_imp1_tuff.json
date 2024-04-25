@@ -3,6 +3,8 @@
   "ingredient": {
     "tag": "waterworld:impure_ore_1"
   },
-  "result": "minecraft:tuff",
+  "result": {
+    "id": "minecraft:tuff"
+  },
   "count": 1
 }

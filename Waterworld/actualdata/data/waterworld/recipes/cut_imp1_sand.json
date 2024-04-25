@@ -1,9 +1,10 @@
 {
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "tag": "waterworld:impure_ore_1"
-    },
-    "result": "minecraft:sand",
-    "count": 8
-  }
-  
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "waterworld:impure_ore_1"
+  },
+  "result": {
+    "id": "minecraft:sand"
+  },
+  "count": 8
+}
