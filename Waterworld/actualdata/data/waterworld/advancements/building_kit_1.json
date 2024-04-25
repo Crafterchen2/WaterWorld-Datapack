@@ -7,7 +7,7 @@
             "translate": "waterworld.advancements.building_kit_1.desc"
         },
         "icon": {
-            "item": "minecraft:white_glazed_terracotta"
+            "id": "minecraft:white_glazed_terracotta"
         },
         "frame": "task",
         "show_toast": true,

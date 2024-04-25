@@ -7,7 +7,7 @@
             "translate": "waterworld.advancements.stonecutter.desc"
         },
         "icon": {
-            "item": "minecraft:stonecutter"
+            "id": "minecraft:stonecutter"
         },
         "frame": "task",
         "show_toast": true,

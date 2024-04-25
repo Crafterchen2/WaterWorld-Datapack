@@ -9,7 +9,7 @@
             "translate": "waterworld.advancements.cobblestone_bucket.desc"
         },
         "icon": {
-            "item": "minecraft:music_disc_13"
+            "id": "minecraft:music_disc_13"
         },
         "frame": "task",
         "show_toast": true,

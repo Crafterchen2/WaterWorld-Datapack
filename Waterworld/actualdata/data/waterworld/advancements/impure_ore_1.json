@@ -7,7 +7,7 @@
             "translate": "waterworld.advancements.impure_ore_1.desc"
         },
         "icon": {
-            "item": "minecraft:lime_terracotta"
+            "id": "minecraft:lime_terracotta"
         },
         "frame": "task",
         "show_toast": true,

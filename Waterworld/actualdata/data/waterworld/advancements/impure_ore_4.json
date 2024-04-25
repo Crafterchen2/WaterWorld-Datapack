@@ -7,7 +7,7 @@
             "translate": "waterworld.advancements.impure_ore_4.desc"
         },
         "icon": {
-            "item": "minecraft:red_terracotta"
+            "id": "minecraft:red_terracotta"
         },
         "frame": "goal",
         "show_toast": true,
