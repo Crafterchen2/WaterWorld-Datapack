@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "initializer": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": 0,
+            "range": 0
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "waterworld:loadsetup"
+  }
+}

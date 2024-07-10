@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "initializer": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "waterworld:player_tick"
+    }
+}

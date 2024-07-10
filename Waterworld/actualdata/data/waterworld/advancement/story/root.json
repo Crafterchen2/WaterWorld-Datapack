@@ -13,7 +13,7 @@
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false,
-        "background": "minecraft:textures/gui/advancements/backgrounds/water.png"
+        "background": "waterworld:textures/gui/advancements/backgrounds/water.png"
     },
     "criteria": {
         "oak_log": {

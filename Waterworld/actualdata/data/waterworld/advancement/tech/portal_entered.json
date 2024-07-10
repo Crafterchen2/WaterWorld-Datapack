@@ -10,7 +10,7 @@
                         "predicate": {
                             "location": {
                                 "block": {
-                                    "tag": "waterworld:dark_ocean_portal"
+                                    "blocks": "#waterworld:dark_ocean_portal"
                                 }
                             }
                         }

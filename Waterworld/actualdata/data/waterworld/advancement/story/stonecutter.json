@@ -1,14 +1,14 @@
 {
-    "parent": "waterworld:impure_ore_2",
+    "parent": "waterworld:story/root",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.blast_furnace.title"
+            "translate": "waterworld.advancements.stonecutter.title"
         },
         "description": {
-            "translate": "waterworld.advancements.blast_furnace.desc"
+            "translate": "waterworld.advancements.stonecutter.desc"
         },
         "icon": {
-            "id": "minecraft:blast_furnace"
+            "id": "minecraft:stonecutter"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,12 +16,14 @@
         "hidden": false
     },
     "criteria": {
-        "blast_furnace": {
+        "stonecutter": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:blast_furnace"]
+                        "items": [
+                            "minecraft:stonecutter"
+                        ]
                     }
                 ]
             }
@@ -29,8 +31,7 @@
     },
     "requirements": [
         [
-            "blast_furnace"
+            "stonecutter"
         ]
     ]
-
 }

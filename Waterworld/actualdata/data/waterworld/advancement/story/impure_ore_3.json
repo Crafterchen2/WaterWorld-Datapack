@@ -1,13 +1,14 @@
 {
+    "parent": "waterworld:story/impure_ore_2",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.stonecutter.title"
+            "translate": "waterworld.advancements.impure_ore_3.title"
         },
         "description": {
-            "translate": "waterworld.advancements.stonecutter.desc"
+            "translate": "waterworld.advancements.impure_ore_3.desc"
         },
         "icon": {
-            "id": "minecraft:stonecutter"
+            "id": "minecraft:yellow_terracotta"
         },
         "frame": "task",
         "show_toast": true,
@@ -15,14 +16,12 @@
         "hidden": false
     },
     "criteria": {
-        "stonecutter": {
+        "impure_ore_3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
-                    {   
-                        "items":[
-                            "minecraft:stonecutter"
-                        ]
+                    {
+                        "items": "#waterworld:impure_ore_3"
                     }
                 ]
             }
@@ -30,8 +29,12 @@
     },
     "requirements": [
         [
-            "stonecutter"
+            "impure_ore_3"
         ]
     ],
-    "parent": "waterworld:root"
+    "rewards": {
+        "recipes": [
+            "minecraft:red_terracotta"
+        ]
+    }
 }

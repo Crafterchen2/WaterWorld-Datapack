@@ -1,15 +1,14 @@
 {
-    "parent": "waterworld:root",
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "parent": "waterworld:story/stonecutter",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.dried_kelp.title"
+            "translate": "waterworld.advancements.impure_ore_1.title"
         },
         "description": {
-            "translate": "waterworld.advancements.dried_kelp.desc"
+            "translate": "waterworld.advancements.impure_ore_1.desc"
         },
         "icon": {
-            "id": "minecraft:dried_kelp"
+            "id": "minecraft:lime_terracotta"
         },
         "frame": "task",
         "show_toast": true,
@@ -17,12 +16,12 @@
         "hidden": false
     },
     "criteria": {
-        "dried_kelp": {
+        "impure_ore_1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:dried_kelp"]
+                        "items": "#waterworld:impure_ore_1"
                     }
                 ]
             }
@@ -30,8 +29,12 @@
     },
     "requirements": [
         [
-            "dried_kelp"
+            "impure_ore_1"
         ]
-    ]
-
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:green_terracotta"
+        ]
+    }
 }

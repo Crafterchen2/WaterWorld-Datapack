@@ -1,4 +1,5 @@
 {
+    "parent": "waterworld:tech/initializer",
     "display": {
         "icon": {
             "id": "minecraft:water_bucket"
@@ -15,7 +16,6 @@
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "waterworld:initializer",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:location",

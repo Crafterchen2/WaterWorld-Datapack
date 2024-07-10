@@ -1,14 +1,14 @@
 {
-    "parent": "waterworld:impure_ore_1",
+    "parent": "waterworld:story/building_kit_2",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.impure_ore_2.title"
+            "translate": "waterworld.advancements.building_kit_3.title"
         },
         "description": {
-            "translate": "waterworld.advancements.impure_ore_2.desc"
+            "translate": "waterworld.advancements.building_kit_3.desc"
         },
         "icon": {
-            "id": "minecraft:green_terracotta"
+            "id": "minecraft:gray_glazed_terracotta"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,12 +16,14 @@
         "hidden": false
     },
     "criteria": {
-        "impure_ore_2": {
+        "building_kit_3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": "#waterworld:impure_ore_2"
+                        "items": [
+                            "minecraft:gray_glazed_terracotta"
+                        ]
                     }
                 ]
             }
@@ -29,13 +31,12 @@
     },
     "requirements": [
         [
-            "impure_ore_2"
+            "building_kit_3"
         ]
     ],
     "rewards": {
         "recipes": [
-            "minecraft:yellow_terracotta",
-            "minecraft:blast_furnace"
+            "minecraft:black_glazed_terracotta"
         ]
     }
 }

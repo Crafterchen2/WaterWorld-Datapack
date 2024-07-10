@@ -1,13 +1,14 @@
 {
+    "parent": "waterworld:story/root",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.building_kit_4.title"
+            "translate": "waterworld.advancements.dried_kelp.title"
         },
         "description": {
-            "translate": "waterworld.advancements.building_kit_4.desc"
+            "translate": "waterworld.advancements.dried_kelp.desc"
         },
         "icon": {
-            "id": "minecraft:black_glazed_terracotta"
+            "id": "minecraft:dried_kelp"
         },
         "frame": "task",
         "show_toast": true,
@@ -15,12 +16,14 @@
         "hidden": false
     },
     "criteria": {
-        "building_kit_4": {
+        "dried_kelp": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:black_glazed_terracotta"]
+                        "items": [
+                            "minecraft:dried_kelp"
+                        ]
                     }
                 ]
             }
@@ -28,8 +31,7 @@
     },
     "requirements": [
         [
-            "building_kit_4"
+            "dried_kelp"
         ]
-    ],
-    "parent": "waterworld:building_kit_3"
+    ]
 }

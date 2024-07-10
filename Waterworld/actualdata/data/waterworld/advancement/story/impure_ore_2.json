@@ -1,15 +1,14 @@
 {
-    "parent": "waterworld:blast_furnace",
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "parent": "waterworld:story/impure_ore_1",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.cobblestone_bucket.title"
+            "translate": "waterworld.advancements.impure_ore_2.title"
         },
         "description": {
-            "translate": "waterworld.advancements.cobblestone_bucket.desc"
+            "translate": "waterworld.advancements.impure_ore_2.desc"
         },
         "icon": {
-            "id": "minecraft:music_disc_13"
+            "id": "minecraft:green_terracotta"
         },
         "frame": "task",
         "show_toast": true,
@@ -17,12 +16,12 @@
         "hidden": false
     },
     "criteria": {
-        "cobblestone_bucket": {
+        "impure_ore_2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:music_disc_13"]
+                        "items": "#waterworld:impure_ore_2"
                     }
                 ]
             }
@@ -30,8 +29,13 @@
     },
     "requirements": [
         [
-            "cobblestone_bucket"
+            "impure_ore_2"
         ]
-    ]
-
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:yellow_terracotta",
+            "minecraft:blast_furnace"
+        ]
+    }
 }

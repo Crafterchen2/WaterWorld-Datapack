@@ -1,14 +1,14 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "parent": "waterworld:story/blast_furnace",
     "display": {
         "title": {
-            "translate": "waterworld.advancements.building_kit_2.title"
+            "translate": "waterworld.advancements.cobblestone_bucket.title"
         },
         "description": {
-            "translate": "waterworld.advancements.building_kit_2.desc"
+            "translate": "waterworld.advancements.cobblestone_bucket.desc"
         },
         "icon": {
-            "id": "minecraft:light_gray_glazed_terracotta"
+            "id": "minecraft:music_disc_13"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,12 +16,14 @@
         "hidden": false
     },
     "criteria": {
-        "building_kit_2": {
+        "cobblestone_bucket": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:light_gray_glazed_terracotta"]
+                        "items": [
+                            "minecraft:music_disc_13"
+                        ]
                     }
                 ]
             }
@@ -29,13 +31,12 @@
     },
     "requirements": [
         [
-            "building_kit_2"
+            "cobblestone_bucket"
         ]
     ],
-    "parent": "waterworld:building_kit_1",
     "rewards": {
         "recipes": [
-            "minecraft:gray_glazed_terracotta"
+            "waterworld:blasted_lava"
         ]
     }
 }
