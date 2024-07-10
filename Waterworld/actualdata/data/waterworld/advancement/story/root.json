@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "minecraft:logs"
+                        "items": "#minecraft:logs"
                     }
                 ]
             }
@@ -38,8 +38,8 @@
             "minecraft:stonecutter",
             "minecraft:furnace",
             "minecraft:lime_terracotta",
-            "waterworld:cutting_blade",
-            "waterworld:gravel_from_sand"
+            "waterworld:shaped_sawblade",
+            "waterworld:shapeless_gravel_from_sand"
         ]
     }
 }
