@@ -37,6 +37,7 @@
     "rewards": {
         "recipes": [
             "waterworld:blasted_lava"
-        ]
+        ],
+        "experience": 100
     }
 }

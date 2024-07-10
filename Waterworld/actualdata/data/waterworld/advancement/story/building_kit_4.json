@@ -33,5 +33,8 @@
         [
             "building_kit_4"
         ]
-    ]
+    ],
+    "rewards": {
+        "experience": 100
+    }
 }

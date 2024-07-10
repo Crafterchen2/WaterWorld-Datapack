@@ -33,5 +33,10 @@
         [
             "blast_furnace"
         ]
-    ]
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:bucket"
+        ]
+    }
 }

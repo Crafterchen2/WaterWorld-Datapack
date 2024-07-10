@@ -1,71 +1,56 @@
 {
     "parent": "waterworld:story/impure_ore_2",
     "display": {
-        "icon": {
-            "id": "minecraft:chainmail_chestplate"
-        },
-        "title": {
-            "translate": "waterworld.advancements.glass_helmet.title"
-        },
-        "description": {
-            "translate": "waterworld.advancements.glass_helmet.desc"
-        },
-        "frame": "goal",
-        "show_toast": true,
-        "announce_to_chat": true,
-        "hidden": false
+      "icon": {
+        "id": "minecraft:chainmail_chestplate"
+      },
+      "title": {
+        "translate": "waterworld.advancements.glass_helmet.title"
+      },
+      "description": {
+        "translate": "waterworld.advancements.glass_helmet.desc"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
     },
     "criteria": {
-        "diving_helmet": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#waterworld:diving_helmet"
-                    }
-                ]
+      "diving_suit": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "head": {
+                    "items": "#waterworld:diving_helmet"
+                  },
+                  "chest": {
+                    "items": "#waterworld:diving_chestplate"
+                  },
+                  "legs": {
+                    "items": "#waterworld:diving_leggings"
+                  },
+                  "feet": {
+                    "items": "#waterworld:diving_boots"
+                  }
+                }
+              }
             }
-        },
-        "diving_chestplate": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#waterworld:diving_chestplate"
-                    }
-                ]
-            }
-        },
-        "diving_leggings": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#waterworld:diving_leggings"
-                    }
-                ]
-            }
-        },
-        "diving_boots": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#waterworld:diving_boots"
-                    }
-                ]
-            }
+          ]
         }
+      }
     },
     "requirements": [
-        [
-            "diving_helmet",
-            "diving_chestplate",
-            "diving_leggings",
-            "diving_boots"
-        ]
+      [
+        "diving_suit"
+      ]
     ],
     "rewards": {
-        "experience": 100
+      "experience": 100
     }
-}
+  }
+  

@@ -35,6 +35,7 @@
     "rewards": {
         "recipes": [
             "minecraft:white_glazed_terracotta"
-        ]
+        ],
+        "experience": 100
     }
 }
