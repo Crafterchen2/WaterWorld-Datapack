@@ -1,4 +1,4 @@
-§cThis is not Minecraft 1.21!
-§cPlease use Minecraft version 1.21.
+§cThis is not Minecraft 1.21 or 1.21.1!
+§cPlease use Minecraft version 1.21 or 1.21.1.
 §cDatapack "Waterworld" might not work.
-§cMinecraft 1.21 required!
+§cMinecraft 1.21 or 1.21.1 required!
