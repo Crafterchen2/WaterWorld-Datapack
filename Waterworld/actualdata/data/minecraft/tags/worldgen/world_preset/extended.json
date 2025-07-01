@@ -1,6 +1,7 @@
 {
-    "replace": false,
+    "replace": true,
     "values": [
+        "minecraft:debug_all_block_states",
         "waterworld:waterworld_preset"
     ]
 }
