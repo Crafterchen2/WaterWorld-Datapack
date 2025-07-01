@@ -557,7 +557,7 @@
         "type": "minecraft:the_end",
         "generator": {
           "type": "minecraft:noise",
-          "settings": "minecraft:end",
+          "settings": "waterworld:void_sea_noise_settings",
           "biome_source": {
             "type": "minecraft:the_end"
           }
